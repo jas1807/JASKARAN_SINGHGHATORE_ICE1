@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//name: jaskaran singh ghatore
+//studentid: 991664487
+
 package cardtrickice1;
 import cardtrickice1.Card;
 import java.util.Scanner;
@@ -20,7 +23,7 @@ public class CardTrickICE1 {
      */
     public static void main(String[] args) 
     {
-        Card luckyCard = new card;
+        Card luckyCard = new card();
         luckyCard.setValue(7);
         luckyCard.setSuits(Card.SUITS[1]);
         
