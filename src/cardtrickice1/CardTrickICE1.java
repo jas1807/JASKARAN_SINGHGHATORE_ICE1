@@ -20,6 +20,9 @@ public class CardTrickICE1 {
      */
     public static void main(String[] args) 
     {
+        Card luckyCard = new card;
+        luckyCard.setValue(7);
+        luckyCard.setSuits(Card.SUITS[1]);
         
         Card[] magicHand = new Card[7]; //Array of object
         for( int i=0; i<magicHand.length;i++)
