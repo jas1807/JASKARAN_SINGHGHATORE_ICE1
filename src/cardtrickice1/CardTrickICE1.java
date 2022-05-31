@@ -23,7 +23,7 @@ public class CardTrickICE1 {
      */
     public static void main(String[] args) 
     {
-        Card luckyCard = new card();
+        Card luckyCard = new Card();
         luckyCard.setValue(7);
         luckyCard.setSuits(Card.SUITS[1]);
         
