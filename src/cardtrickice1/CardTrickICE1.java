@@ -46,7 +46,7 @@ public class CardTrickICE1 {
        System.out.println("please choose the suit: "  + "\n" + "1: diamonds" + "\n" + "2: clubs" + "\n" + "3: Spades"+"\n" + "4: hearts" );
         int userSuit = input.nextInt();
         
-        System.out.println("please choose the value (1 to 12)");
+        System.out.println("please choose the value (1 to 13)");
        int userValue = input.nextInt();
        
         String response = "card not found";
